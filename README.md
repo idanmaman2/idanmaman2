@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @idanmaman2
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning cyber and grpahics 
-- 💞️ I’m looking to collaborate oneverthing
-- 📫 How to reach me - via mail - idangolo123@gmail.com
 
 <!---
 idanmaman2/idanmaman2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
