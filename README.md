@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @idanmaman2
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idanmaman2)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 idanmaman2/idanmaman2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idanmaman2&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 # c projects : 
   https://github.com/idanmaman2/ascii3DViewer
