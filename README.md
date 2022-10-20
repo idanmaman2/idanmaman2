@@ -15,32 +15,24 @@ You can click the Preview link to take a look at your changes.
 
 
 # c projects : 
-  https://github.com/idanmaman2/ascii3DViewer
-  
-  https://github.com/idanmaman2/IDHM_SHELL
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=ascii3DViewer)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=IDHM_SHELL)](https://github.com/anuraghazra/github-readme-stats)
 
 # cpp projects : 
-  https://github.com/idanmaman2/Os_project_client_plus_server
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=Os_project_client_plus_server)](https://github.com/anuraghazra/github-readme-stats)
 
 # java projects : 
-  https://github.com/idanmaman2/ISE5782_6941_3797
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=ISE5782_6941_3797)](https://github.com/anuraghazra/github-readme-stats)
 
 # c# projects : 
-  https://github.com/idanmaman2/HandHero--Kinect-v1.8-
-  
-  https://github.com/asimon655/dotNet5782_3715_6941
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=HandHero--Kinect-v1.8-)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asimon655&repo=dotNet5782_3715_6941)](https://github.com/anuraghazra/github-readme-stats)
 
 # dart projects :
-  https://github.com/idanmaman2/ISPOT_IDHM
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=ISPOT_IDHM)](https://github.com/anuraghazra/github-readme-stats)
 
 # py projects : 
-  https://github.com/idanmaman2/youtube_Playlist_Downloder
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=youtube_Playlist_Downloder)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=HRSpider)](https://github.com/anuraghazra/github-readme-stats)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=Selenium_SIte_Check)](https://github.com/anuraghazra/github-readme-stats)
   
-  https://github.com/idanmaman2/HRSpider
-  
-  https://github.com/idanmaman2/Selenium_SIte_Check
-  
-  https://github.com/idanmaman2/IDHTMA_Painter
-  
-  https://github.com/idanmaman2/Http_Server
-
