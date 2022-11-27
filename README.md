@@ -4,6 +4,7 @@
 you are one of 
 ![Visitor Count](https://profile-counter.glitch.me/idanmaman2/count.svg)
 who saw my page 
+
 (or you are bot : 
 ```
 >>> def task():
@@ -18,9 +19,7 @@ who saw my page
 ...     i.join()
 ... 
 
-```
-
-) 
+```) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idanmaman2)](https://github.com/anuraghazra/github-readme-stats)
 <!---
