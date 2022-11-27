@@ -13,7 +13,7 @@ or you are bot :
 ...     while True : 
 ...             requests.get("https://camo.githubusercontent.com/496f2939bb5cb3f74dbdb821c20d29b52f63b943a9af4ccb5fb0a51fe8cc21f8/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6964616e6d616d616e322f636f756e742e737667")
 ... 
->>> tr = [threading.Thread(target=task) for i in range(50)] 
+>>> tr = [threading.Thread(target=task) for i in range(10)] 
 >>> for i in tr : 
 ...     i.start()
 ... 
