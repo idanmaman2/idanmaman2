@@ -7,7 +7,7 @@ who saw my page
 
 (
 
-or you are bot : 
+or you are a bot : 
 ```
 >>> def task():
 ...     while True : 
