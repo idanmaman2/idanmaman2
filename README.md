@@ -33,26 +33,11 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idanmaman2&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-# c projects : 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=ascii3DViewer)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=IDHM_SHELL)](https://github.com/anuraghazra/github-readme-stats)
-
-# cpp projects : 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=Os_project_client_plus_server)](https://github.com/anuraghazra/github-readme-stats)
-
-# java projects : 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=ISE5782_6941_3797)](https://github.com/anuraghazra/github-readme-stats)
-
-# c# projects : 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=HandHero--Kinect-v1.8-)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asimon655&repo=dotNet5782_3715_6941)](https://github.com/anuraghazra/github-readme-stats)
-
-# dart projects :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=ISPOT_IDHM)](https://github.com/anuraghazra/github-readme-stats)
-
-# py projects : 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=youtube_Playlist_Downloder)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=HRSpider)](https://github.com/anuraghazra/github-readme-stats)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=idanmaman2&repo=Selenium_SIte_Check)](https://github.com/anuraghazra/github-readme-stats)
-  
+## Future projects : 
+  * native swift replacement for xampp - with support for Tomcat Apache 😺
+  * static anlyzer hider 
+  * ReDosstub - change the dos stub 
+  * Compiler for Nand2Tetris in racket and Tetris game in jack . 
+  * Cinema full website managed by Tomcat server - backend , React - fornted , and for admins phpmyadmin - deployed on Google Cloud Engine with kubernetes
+  * Sysinternals tools hider  
+   
