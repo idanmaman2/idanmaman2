@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @idanmaman2 - student to Bs.c (last year). 
+- 👋 Hi, I’m @idanmaman2 - 18yo student to Bs.c (last year). 
 
 
 you are one of 
