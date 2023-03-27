@@ -32,6 +32,20 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idanmaman2&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+## Langs I know : 
+* python 
+* java
+* c#
+* cpp
+* c 
+* dart
+* js 
+* ts 
+* asm x86 
+* asm mips
+* ocaml 
+* racket
+* prolog
 
 ## Future projects : 
   * native swift replacement for xampp - with support for Tomcat Apache 😺
