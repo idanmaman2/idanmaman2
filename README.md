@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @idanmaman2 - 18yo student to Bs.c (last year). 
+- 👋 Hi, I’m @idanmaman2 - 19yo student to Bs.c (last year). 
 
+
+[my website](https://idanmaman2.github.io/index.html)
 
 you are one of 
 ![Visitor Count](https://profile-counter.glitch.me/idanmaman2/count.svg)
